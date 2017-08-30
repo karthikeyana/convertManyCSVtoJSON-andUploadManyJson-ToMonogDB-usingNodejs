@@ -1,0 +1,36 @@
+{
+  "name": "convertmanycsvtojson-anduploadmanyjson-tomonogdb-using_nodejs",
+  "version": "1.0.0",
+  "description": "convertManyCSVtoJSON-andUploadManyJson-ToMonogDB-usingNodejs",
+  "scripts": {
+    "start": "node upload.js"
+  },
+  "dependencies": {
+    "csvjson": "^4.3.4",
+    "fs": "^0.0.1-security",
+    "glob": "^7.1.2",
+    "mongodb": "^2.2.31",
+    "node-csv-json": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyana/convertManyCSVtoJSON-andUploadManyJson-ToMonogDB-usingNodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "csv",
+    "json",
+    "mongodb",
+    "collection"
+  ],
+  "author": "karthikeyan.a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyana/convertManyCSVtoJSON-andUploadManyJson-ToMonogDB-usingNodejs/issues"
+  },
+  "homepage": "https://github.com/karthikeyana/convertManyCSVtoJSON-andUploadManyJson-ToMonogDB-usingNodejs#readme"
+}
