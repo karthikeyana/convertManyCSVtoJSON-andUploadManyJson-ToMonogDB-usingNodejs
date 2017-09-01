@@ -13,9 +13,6 @@
     "node-csv-json": "^0.2.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karthikeyana/convertManyCSVtoJSON-andUploadManyJson-ToMonogDB-usingNodejs.git"
